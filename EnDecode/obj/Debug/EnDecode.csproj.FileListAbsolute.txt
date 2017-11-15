@@ -1,0 +1,12 @@
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\bin\Debug\EnDecode.exe.config
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\bin\Debug\EnDecode.exe
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\bin\Debug\EnDecode.pdb
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\obj\Debug\EnDecode.csprojResolveAssemblyReference.cache
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\obj\Debug\EnDecode.exe
+c:\users\saroj\documents\visual studio 2015\Projects\EnDecode\EnDecode\obj\Debug\EnDecode.pdb
+G:\komal\EnDecode\EnDecode\bin\Debug\EnDecode.exe.config
+G:\komal\EnDecode\EnDecode\bin\Debug\EnDecode.exe
+G:\komal\EnDecode\EnDecode\bin\Debug\EnDecode.pdb
+G:\komal\EnDecode\EnDecode\obj\Debug\EnDecode.exe
+G:\komal\EnDecode\EnDecode\obj\Debug\EnDecode.pdb
+G:\komal\EnDecode\EnDecode\obj\Debug\EnDecode.csprojResolveAssemblyReference.cache
