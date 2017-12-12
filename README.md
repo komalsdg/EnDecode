@@ -4,7 +4,7 @@ This program is to encode and decode given string with restricted to ascii chara
 
 **Example:**
 
-** ## Encode**
+## ** Encode**
 
    ```given string value : Test EnDecode```
   
@@ -13,7 +13,7 @@ This program is to encode and decode given string with restricted to ascii chara
    ```resulting encode(reverse) : 1010011119910186011962361151110148```
   
   
-** ## Decode**
+## ** Decode**
 
 
    ```given string value : 1010011119910186011962361151110148```
